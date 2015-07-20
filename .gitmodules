@@ -1,0 +1,3 @@
+[submodule "content/themes/am-sandbox-theme"]
+	path = content/themes/am-sandbox-theme
+	url = git@github.com:Alxmerino/am-sandbox-theme.git
